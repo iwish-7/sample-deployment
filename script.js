@@ -6,6 +6,6 @@ function changeText() {
   state = !state;
 
   title.innerText = state
-    ? "GitHub Pages Deployment Works ✅"
+    ? "GitHub Pages Deployment Works ✅ or Does It?"
     : "Hello GitHub Pages 🚀";
 }
