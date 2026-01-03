@@ -7,5 +7,5 @@ function changeText() {
 
   title.innerText = state
     ? "GitHub Pages Deployment Works ✅ or Does It?"
-    : "Hello My World 🚀";
+    : "Hello My World, BRB 🚀";
 }
